@@ -1,0 +1,19 @@
+body{
+    background-color: rgb(228, 200, 255);
+}
+
+button{
+    color: rgb(253, 253, 253);
+    background-color: blueviolet;
+    border-radius: 15px;
+}
+
+input{
+    color: aliceblue;
+    background-color: rgb(202, 146, 255);
+    border-radius: 15px;
+}
+
+label{
+    color: rgb(151, 122, 255);
+}
